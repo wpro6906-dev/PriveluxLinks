@@ -1,0 +1,272 @@
+QUIERO QUE DESARROLLES UNA MINI WEB PREMIUM TIPO LINKTREE PARA UNA MARCA INMOBILIARIA LLAMADA "CLAUDIA ALZATE REALTOR®".
+
+VOY A PROPORCIONAR UN ARCHIVO PNG CON EL LOGO OFICIAL DE LA MARCA.
+
+IMPORTANTE:
+
+NO QUIERO UNA LANDING PAGE LARGA.
+
+NO QUIERO UN SITIO WEB TRADICIONAL.
+
+NO QUIERO SECCIONES INFINITAS.
+
+NO QUIERO SCROLL EXTENSO.
+
+QUIERO UNA WEB MUY COMPACTA QUE FUNCIONE COMO UNA VERSIÓN PREMIUM Y PERSONALIZADA DE LINKTREE.
+
+LA IDEA ES QUE CASI TODO EL CONTENIDO SEA VISIBLE EN LA PRIMERA PANTALLA DEL CELULAR.
+
+EL USUARIO DEBE PODER VER TODA LA INFORMACIÓN PRINCIPAL SIN TENER QUE DESPLAZARSE MUCHO.
+
+REFERENCIA:
+
+Una mezcla entre:
+
+* Linktree Premium
+* Página de perfil de marca personal
+* Mini web de lujo
+* Tarjeta de presentación digital
+
+TECNOLOGÍAS:
+
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* Lucide React
+* Responsive Mobile First
+
+ESTRUCTURA GENERAL:
+
+Crear dos módulos:
+
+1. Web pública
+2. Dashboard administrativo
+
+========================
+WEB PÚBLICA
+===========
+
+DISEÑO VISUAL:
+
+Estética de lujo inmobiliario.
+
+Paleta:
+
+Negro profundo #050505
+Negro secundario #0F0F0F
+Dorado principal #D4B483
+Dorado brillante #E8C999
+Blanco #FFFFFF
+
+Tipografías:
+
+Títulos:
+Playfair Display
+
+Textos:
+Montserrat
+
+Botones:
+Montserrat SemiBold
+
+FONDO:
+
+Imagen inmobiliaria premium oscurecida.
+
+Overlay negro elegante.
+
+Detalles dorados sutiles.
+
+Texturas de lujo discretas.
+
+Animaciones suaves.
+
+DISEÑO GENERAL:
+
+Toda la web debe parecer una sola tarjeta digital premium.
+
+No debe sentirse como una página larga.
+
+Debe verse perfecta en celular.
+
+========================
+HEADER
+======
+
+Logo grande centrado.
+
+Nombre:
+
+Claudia Alzate
+
+Subtítulo:
+
+Realtor®
+
+Frase:
+
+Te ayudo a encontrar más que una casa, tu próximo hogar.
+
+Todo editable desde dashboard.
+
+========================
+BOTONES PRINCIPALES
+===================
+
+Los botones son el elemento principal de la web.
+
+Diseño:
+
+* Grandes
+* Elegantes
+* Bordes redondeados
+* Estilo premium
+* Fondo oscuro
+* Bordes dorados
+* Hover suave
+* Animación elegante
+
+Botones iniciales:
+
+Instagram
+
+Facebook
+
+WhatsApp
+
+Sitio Web
+
+Cada botón debe tener:
+
+* Icono
+* Título
+* Descripción opcional
+* URL
+
+Ejemplo:
+
+Instagram
+Sígueme en Instagram
+
+Facebook
+Conéctate conmigo
+
+WhatsApp
+Escríbeme directamente
+
+Sitio Web
+Conoce más información
+
+========================
+FOOTER PEQUEÑO
+==============
+
+Mostrar únicamente:
+
+* Iconos sociales
+* Licencia Realtor
+* Información breve
+
+Nada más.
+
+========================
+DASHBOARD ADMINISTRATIVO
+========================
+
+Crear acceso mediante login.
+
+Usuario inicial:
+
+admin
+
+Contraseña inicial:
+
+admin123
+
+Diseño moderno.
+
+Sidebar izquierda.
+
+Panel principal derecha.
+
+Muy intuitivo.
+
+========================
+IDENTIDAD VISUAL
+================
+
+Permitir:
+
+* Cambiar logo
+* Cambiar imagen de fondo
+* Cambiar nombre
+* Cambiar subtítulo
+* Cambiar frase principal
+* Cambiar colores
+* Cambiar tipografía
+
+Vista previa en tiempo real.
+
+========================
+BOTONES
+=======
+
+Permitir:
+
+Agregar botón.
+
+Eliminar botón.
+
+Editar botón.
+
+Cambiar:
+
+* Título
+* Descripción
+* URL
+* Icono
+* Orden
+
+Activar o desactivar botones.
+
+Los cambios deben reflejarse inmediatamente en la web.
+
+========================
+CONFIGURACIÓN
+=============
+
+Permitir:
+
+Cambiar usuario.
+
+Cambiar contraseña.
+
+========================
+ALMACENAMIENTO
+==============
+
+Guardar toda la información de forma persistente.
+
+Usar SQLite o sistema similar.
+
+Los cambios no deben perderse al reiniciar.
+
+========================
+OBJETIVO FINAL
+==============
+
+La web debe sentirse como una versión de lujo y completamente personalizada de Linktree.
+
+Cuando un visitante entre debe percibir:
+
+* Profesionalismo
+* Confianza
+* Elegancia
+* Marca inmobiliaria premium
+
+NO debe parecer una plantilla.
+
+NO debe parecer un Linktree común.
+
+Debe parecer una mini web exclusiva creada para Claudia Alzate Realtor® utilizando automáticamente el logo PNG proporcionado.

@@ -1,0 +1,2 @@
+- [Claudia Alzate stack & conventions](claudia-alzate-stack.md) — key rules for this project: imports, icon fixes, VisualConfig shape, DB schema
+- [JWT session store fix](jwt-session-store.md) — in-memory sessions broke Render deploys; replaced with stateless JWT (HS256, built-in crypto)

@@ -1,0 +1,339 @@
+ANALIZA EL PROYECTO ACTUAL Y REALIZA UNA MEJORA COMPLETA DE LA EXPERIENCIA VISUAL, RESPONSIVE Y ADMINISTRATIVA SIN ELIMINAR LAS FUNCIONALIDADES EXISTENTES.
+
+IMPORTANTE:
+
+NO QUIERO RECONSTRUIR EL PROYECTO DESDE CERO.
+
+QUIERO MEJORAR LA VERSIÓN ACTUAL.
+
+Mantén funcionando:
+
+* Dashboard administrativo
+* Edición de botones
+* Persistencia de datos
+* Login administrativo
+* Configuración existente
+
+Pero mejora significativamente el diseño y la experiencia visual.
+
+=================================================
+
+OBJETIVO GENERAL
+
+La web debe sentirse como una versión premium de Linktree para una Realtor de lujo.
+
+La marca debe transmitir:
+
+* Profesionalismo
+* Exclusividad
+* Confianza
+* Elegancia
+* Lujo inmobiliario
+
+Actualmente el diseño se ve funcional pero demasiado simple.
+
+Necesito que parezca una web diseñada por una agencia profesional.
+
+=================================================
+
+MEJORA DEL LAYOUT DESKTOP
+
+Actualmente existe demasiado espacio vacío negro en pantallas grandes.
+
+Rediseña completamente la experiencia desktop.
+
+Mantén el diseño móvil actual como base.
+
+Para pantallas mayores a 1200px:
+
+Crear un contenedor principal más amplio.
+
+Ancho máximo aproximado:
+
+1400px
+
+Diseñar dos columnas elegantes.
+
+COLUMNA IZQUIERDA:
+
+* Imagen inmobiliaria premium
+* Fondo oscuro elegante
+* Logo grande
+* Nombre Claudia Alzate
+* Realtor®
+* Frase principal
+
+COLUMNA DERECHA:
+
+* Botones principales
+* Información de contacto
+* Redes sociales
+
+La web debe aprovechar mucho mejor el ancho de pantalla.
+
+Eliminar la sensación de que todo está encerrado en una pequeña columna central.
+
+=================================================
+
+IDENTIDAD TIPOGRÁFICA PREMIUM
+
+Importar automáticamente:
+
+Playfair Display
+
+Cormorant Garamond
+
+Montserrat
+
+Aplicar:
+
+Nombre principal:
+
+Playfair Display Bold
+
+Subtítulo Realtor®:
+
+Montserrat Uppercase
+
+Frase principal:
+
+Cormorant Garamond Italic
+
+Botones:
+
+Montserrat SemiBold
+
+Textos secundarios:
+
+Montserrat Regular
+
+La jerarquía visual debe sentirse elegante y de lujo.
+
+Inspiración:
+
+* Firmas inmobiliarias premium
+* Hoteles cinco estrellas
+* Arquitectura de lujo
+
+=================================================
+
+MEJORAR EL FONDO
+
+Actualmente el fondo se ve demasiado plano.
+
+Crear una experiencia visual mucho más premium.
+
+Usar:
+
+* Imagen inmobiliaria oscurecida
+* Overlay negro elegante
+* Blur suave
+* Gradientes sutiles
+* Líneas decorativas doradas
+* Detalles visuales de lujo discretos
+
+NO utilizar efectos exagerados.
+
+NO utilizar colores llamativos.
+
+La prioridad es elegancia y minimalismo.
+
+=================================================
+
+PALETA DE COLORES
+
+Negro principal:
+#050505
+
+Negro secundario:
+#0F0F0F
+
+Dorado principal:
+#D4B483
+
+Dorado brillante:
+#E8C999
+
+Blanco:
+#FFFFFF
+
+Gris suave:
+#B5B5B5
+
+Toda la interfaz debe respetar esta identidad visual.
+
+=================================================
+
+REDISEÑO DE BOTONES
+
+Los botones son el elemento principal de la mini web.
+
+Actualmente se ven demasiado básicos.
+
+Convertir cada botón en una tarjeta premium.
+
+Aplicar:
+
+* Mayor altura
+* Más padding
+* Bordes redondeados elegantes
+* Fondo oscuro premium
+* Borde dorado fino
+* Iconos más grandes
+* Mejor separación visual
+
+Hover:
+
+* Scale suave
+* Glow dorado muy sutil
+* Transiciones fluidas
+
+Cada botón debe sentirse como un elemento de lujo.
+
+=================================================
+
+MICROANIMACIONES
+
+Implementar Framer Motion.
+
+Animaciones suaves.
+
+Nada exagerado.
+
+Agregar:
+
+* Fade In
+* Fade Up
+* Hover elegante
+* Aparición progresiva
+
+La experiencia debe sentirse moderna.
+
+=================================================
+
+HEADER PREMIUM
+
+Mejorar el área superior.
+
+Logo más protagonista.
+
+Agregar mejor espaciado.
+
+Agregar efecto visual elegante.
+
+La primera impresión debe ser impactante.
+
+=================================================
+
+DASHBOARD ADMINISTRATIVO
+
+Mejorar completamente la experiencia del dashboard.
+
+Convertirlo en un constructor visual.
+
+Mantener todas las funciones actuales.
+
+Agregar:
+
+Vista previa en tiempo real.
+
+=================================================
+
+SECCIÓN IDENTIDAD VISUAL
+
+Permitir:
+
+* Cambiar logo
+* Cambiar nombre
+* Cambiar subtítulo
+* Cambiar frase principal
+* Cambiar imagen de fondo
+
+Agregar carga de imágenes mediante interfaz visual.
+
+=================================================
+
+SECCIÓN ESTILO
+
+Permitir modificar:
+
+* Colores principales
+* Colores secundarios
+* Opacidad del overlay
+* Tamaño del logo
+* Bordes redondeados
+* Sombras
+* Espaciados
+
+Todo sin necesidad de tocar código.
+
+=================================================
+
+SECCIÓN BOTONES
+
+Permitir:
+
+Agregar botón.
+
+Eliminar botón.
+
+Editar botón.
+
+Modificar:
+
+* Título
+* Descripción
+* URL
+* Icono
+* Orden
+
+Activar o desactivar botones.
+
+Mostrar vista previa instantánea.
+
+=================================================
+
+SECCIÓN ANALYTICS
+
+Agregar sistema simple de estadísticas.
+
+Registrar:
+
+* Total de visitas
+* Total de clics
+* Clics por botón
+* Botón más utilizado
+* Última actividad
+
+Mostrar los datos dentro del dashboard mediante tarjetas visuales.
+
+=================================================
+
+RESPONSIVE
+
+Prioridad absoluta para móvil.
+
+La web debe verse perfecta en:
+
+* iPhone
+* Android
+* Tablets
+* Computador
+
+La experiencia móvil debe parecer una aplicación premium.
+
+=================================================
+
+RESULTADO ESPERADO
+
+La versión final debe sentirse como:
+
+Una mini web inmobiliaria de lujo.
+
+No debe parecer una plantilla.
+
+No debe parecer un Linktree genérico.
+
+Debe parecer un producto premium desarrollado específicamente para Claudia Alzate Realtor®.
+
+Mantener todas las funcionalidades existentes y enfocarse en elevar drásticamente la calidad visual, experiencia de usuario y capacidad de personalización desde el dashboard.

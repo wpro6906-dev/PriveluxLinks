@@ -1,0 +1,60 @@
+Necesito corregir específicamente la composición visual de la versión móvil.
+
+El problema NO es la opacidad ni el brillo de la imagen.
+
+El problema es que actualmente la versión móvil está reutilizando la misma composición de fondo diseñada para desktop.
+
+En desktop funciona correctamente porque la imagen ocupa principalmente la columna izquierda.
+
+Pero cuando la misma imagen se utiliza en móvil, gran parte del contenido importante del fondo queda fuera de la vista.
+
+Necesito que el diseño móvil tenga un tratamiento independiente del desktop.
+
+Realiza los siguientes cambios:
+
+* Crear una configuración específica para el fondo en móvil.
+* Permitir que la imagen de fondo tenga una posición diferente en móvil y desktop.
+* Permitir que el zoom de la imagen sea diferente en móvil y desktop.
+* Permitir que el recorte visual de la imagen sea diferente en móvil y desktop.
+
+Objetivo:
+
+Que en móvil se vea claramente la vivienda, la iluminación y los elementos principales de la imagen de fondo.
+
+No quiero simplemente centrar la imagen.
+
+Quiero una composición optimizada para pantallas verticales.
+
+La experiencia móvil debe parecer diseñada específicamente para celular y no una adaptación automática de la versión desktop.
+
+Además:
+
+Reducir ligeramente los espacios verticales entre:
+
+* Logo
+* Nombre
+* REALTOR
+* Separador decorativo
+* Frase principal
+
+Actualmente esos elementos ocupan demasiado espacio vertical y obligan al usuario a hacer scroll antes de llegar a los botones.
+
+Reducir esos espacios aproximadamente entre un 20% y un 30%.
+
+Mantener la elegancia visual.
+
+No comprimir excesivamente el contenido.
+
+Objetivo final:
+
+Que en la primera pantalla del celular se vea:
+
+* El logo
+* El nombre
+* La frase principal
+* Parte de la imagen de fondo
+* Y al menos el inicio del primer botón
+
+sin necesidad de hacer scroll.
+
+Mantén la versión desktop actual funcionando correctamente y aplica estos ajustes principalmente a la experiencia móvil.

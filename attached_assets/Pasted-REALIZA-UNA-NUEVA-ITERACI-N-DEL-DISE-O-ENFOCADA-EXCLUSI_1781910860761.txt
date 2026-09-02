@@ -1,0 +1,274 @@
+REALIZA UNA NUEVA ITERACIÓN DEL DISEÑO ENFOCADA EXCLUSIVAMENTE EN REFINAR LA IDENTIDAD VISUAL Y ACERCAR EL RESULTADO AL ESTILO DE UNA MARCA INMOBILIARIA DE LUJO.
+
+IMPORTANTE:
+
+NO MODIFICAR LA ESTRUCTURA GENERAL.
+
+NO ELIMINAR FUNCIONALIDADES.
+
+NO ROMPER EL DASHBOARD.
+
+NO CAMBIAR EL SISTEMA DE BOTONES.
+
+NO RECONSTRUIR EL PROYECTO.
+
+ÚNICAMENTE REFINAR EL DISEÑO VISUAL Y AGREGAR MÁS OPCIONES DE PERSONALIZACIÓN AL DASHBOARD.
+
+=================================================
+
+TIPOGRAFÍA DEL NOMBRE
+
+Actualmente el nombre "Claudia Alzate" se ve demasiado simple.
+
+Necesito una apariencia mucho más premium.
+
+Aplicar:
+
+Claudia:
+Color blanco puro.
+
+Alzate:
+Color dorado principal.
+
+Utilizar Playfair Display o una tipografía serif elegante similar.
+
+Mayor espaciado entre letras.
+
+Mejor jerarquía visual.
+
+Más presencia visual.
+
+Debe parecer una marca de lujo.
+
+=================================================
+
+SUBTÍTULO REALTOR
+
+Eliminar cualquier símbolo de registro o círculo con letra R.
+
+Debe mostrarse únicamente:
+
+REALTOR
+
+En mayúsculas.
+
+Color dorado.
+
+Tracking amplio.
+
+Aspecto elegante y limpio.
+
+=================================================
+
+SEPARADOR DECORATIVO
+
+Debajo de REALTOR agregar un elemento decorativo editable.
+
+Opción inicial:
+
+Línea dorada izquierda.
+
+Icono de casa en el centro.
+
+Línea dorada derecha.
+
+Todo centrado.
+
+Debe poder activarse o desactivarse desde el dashboard.
+
+Debe poder cambiarse el icono desde el dashboard.
+
+=================================================
+
+FRASE PRINCIPAL
+
+Dividir la frase en dos líneas independientes.
+
+Línea 1:
+
+Te ayudo a encontrar más que una casa,
+
+Color blanco.
+
+Tipografía limpia.
+
+Peso medio.
+
+Línea 2:
+
+tu próximo hogar.
+
+Color dorado.
+
+Tipografía elegante tipo script.
+
+Estilo manuscrito premium.
+
+Mayor tamaño.
+
+Mayor protagonismo.
+
+Ambas líneas deben poder editarse individualmente desde el dashboard.
+
+=================================================
+
+FONDO PREMIUM
+
+Actualmente el fondo sigue siendo demasiado simple.
+
+Necesito un sistema de fondo más sofisticado.
+
+Agregar:
+
+Imagen inmobiliaria editable.
+
+Overlay oscuro configurable.
+
+Blur configurable.
+
+Oscurecimiento configurable.
+
+Gradiente superior configurable.
+
+Gradiente inferior configurable.
+
+La imagen debe ser totalmente editable desde el dashboard.
+
+El usuario debe poder:
+
+* Cambiar imagen.
+* Ajustar opacidad.
+* Ajustar blur.
+* Ajustar zoom.
+* Ajustar posición.
+
+Sin tocar código.
+
+=================================================
+
+ELEMENTOS DECORATIVOS
+
+Agregar elementos de lujo muy sutiles.
+
+Inspiración:
+
+Arquitectura moderna.
+
+Marcas premium.
+
+Bienes raíces de lujo.
+
+Agregar:
+
+Líneas doradas finas.
+
+Detalles geométricos suaves.
+
+Brillos extremadamente sutiles.
+
+Curvas elegantes.
+
+Todo configurable desde dashboard.
+
+Activar o desactivar.
+
+=================================================
+
+BOTONES PREMIUM
+
+Mejorar todavía más los botones.
+
+Inspiración:
+
+Tarjetas de lujo.
+
+Aplicaciones premium.
+
+Marcas inmobiliarias exclusivas.
+
+Agregar:
+
+Mayor profundidad visual.
+
+Mejor separación entre icono y texto.
+
+Iconos más elegantes.
+
+Bordes más refinados.
+
+Hover más sofisticado.
+
+Animaciones suaves.
+
+Opcionalmente permitir:
+
+* Icono izquierdo.
+* Flecha derecha.
+* Barra decorativa.
+
+Todo configurable desde dashboard.
+
+=================================================
+
+PERSONALIZACIÓN TOTAL DESDE DASHBOARD
+
+Agregar nueva sección:
+
+APARIENCIA VISUAL
+
+Permitir editar:
+
+* Color del nombre principal.
+* Color del apellido.
+* Color de REALTOR.
+* Color de la línea decorativa.
+* Color del icono central.
+* Color de la frase superior.
+* Color de la frase inferior.
+* Tamaño de cada texto.
+* Espaciado.
+* Tipografía.
+* Grosor.
+
+=================================================
+
+SECCIÓN FONDO
+
+Permitir editar:
+
+* Imagen.
+* Overlay.
+* Blur.
+* Oscurecimiento.
+* Posición.
+* Escala.
+* Gradientes.
+
+Vista previa instantánea.
+
+=================================================
+
+SECCIÓN DECORACIONES
+
+Permitir:
+
+Activar o desactivar:
+
+* Líneas decorativas.
+* Brillos.
+* Curvas.
+* Elementos geométricos.
+
+=================================================
+
+OBJETIVO FINAL
+
+La web debe sentirse visualmente mucho más cercana a una marca inmobiliaria de lujo.
+
+No debe parecer una plantilla.
+
+No debe parecer una web genérica.
+
+Debe sentirse como una identidad visual personalizada para Claudia Alzate Realtor.
+
+Y todos los elementos visuales importantes deben ser editables desde el dashboard sin necesidad de modificar código.
