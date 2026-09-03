@@ -52,28 +52,83 @@ interface VisualConfig {
 
 function getVC(profile: any): Required<VisualConfig> {
   const defaults = {
-    firstName: "Claudia", lastName: "Alzate",
-    firstNameColor: "#FFFFFF", lastNameColor: "#D4B483",
-    subtitleText: "REALTOR", subtitleColor: "#D4B483",
-    decoratorEnabled: true, decoratorIcon: "home", decoratorColor: "#D4B483",
-    tagline1: "Te ayudo a encontrar más que una casa,", tagline2: "tu próximo hogar.",
-    tagline1Color: "#FFFFFF", tagline2Color: "#D4B483",
-    bgOverlay: 0.7, bgBlur: 0, bgZoom: 1, bgPosition: "center",
-    mobileBgPosition: "60% center", mobileBgZoom: 1.15, mobileBgOverlay: 0.52,
-    gradientTop: true, gradientBottom: true, showDecorLines: true, showGlow: true,
-    nameLetterSpacing: "0.05em", showArrowOnButtons: true, showAccentBarOnButtons: true,
-    badgeText: "", badgeIcon: "mappin", badgeColor: "#D4B483",
-    portraitUrl: "", portraitOpacity: 0.85, portraitSize: 68,
-    portraitBlendLeft: 50, portraitBlendTop: 30,
-    bgPhrase: "Luxury Real Estate", bgPhraseEnabled: true, bgPhraseOpacity: 0.88,
+    firstName: "Privelux",
+    lastName: "Store",
+
+    firstNameColor: "#FFFFFF",
+    lastNameColor: "#D4B483",
+
+    subtitleText: "",
+    subtitleColor: "#D4B483",
+
+    decoratorEnabled: true,
+    decoratorIcon: "home",
+    decoratorColor: "#D4B483",
+
+    tagline1: "Mejora tu presencia",
+    tagline2: "Calidad y detalles que hacen la diferencia.",
+
+    tagline1Color: "#FFFFFF",
+    tagline2Color: "#D4B483",
+
+    bgOverlay: 0.7,
+    bgBlur: 0,
+    bgZoom: 1,
+    bgPosition: "center",
+
+    mobileBgPosition: "60% center",
+    mobileBgZoom: 1.15,
+    mobileBgOverlay: 0.52,
+
+    gradientTop: true,
+    gradientBottom: true,
+
+    showDecorLines: true,
+    showGlow: true,
+
+    nameLetterSpacing: "0.05em",
+
+    showArrowOnButtons: true,
+    showAccentBarOnButtons: true,
+
+    badgeText: "Pereira, Risaralda 🇨🇴",
+    badgeIcon: "mappin",
+    badgeColor: "#EAC690",
+
+    portraitUrl: "",
+    portraitOpacity: 0.85,
+    portraitSize: 68,
+    portraitBlendLeft: 50,
+    portraitBlendTop: 30,
+
+    bgPhrase: "El éxito no se sueña, se conquista",
+    bgPhraseEnabled: true,
+    bgPhraseOpacity: 0.88,
+
     statsEnabled: true,
+
     stats: [
-      { icon: "mappin", value: "", label: "Miami, FL", enabled: true },
-      { icon: "home", value: "150+", label: "Propiedades Vendidas", enabled: true },
-      { icon: "star", value: "10+", label: "Años de Experiencia", enabled: true },
-      { icon: "users", value: "500+", label: "Clientes Satisfechos", enabled: true },
+      {
+        icon: "users",
+        value: "300+",
+        label: "Clientes Satisfechos",
+        enabled: true,
+      },
+      {
+        icon: "mail",
+        value: "300+",
+        label: "Envíos Nacionales Realizados",
+        enabled: true,
+      },
+      {
+        icon: "star",
+        value: "3",
+        label: "Años de Experiencia en el Mercado",
+        enabled: true,
+      },
     ],
   };
+
   return { ...defaults, ...(profile?.visualConfig || {}) };
 }
 
